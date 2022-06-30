@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = azure://dvctest
+    account_name = pomboadlsgen2
+    account_key = "'m3GLBJ7vOHIe1YurOedE0mLYXcftglDjBHnCl14rF7rN+yhdYPrW4CzrLc6EeJMvlC3v9EaS8QQxDKwzTrbMsg=='"

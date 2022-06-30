@@ -1,0 +1,4 @@
+outs:
+- md5: 8dc683404e625e318233918f88d4e68f
+  size: 118
+  path: local.settings.json
